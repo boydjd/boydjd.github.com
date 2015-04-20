@@ -7,12 +7,12 @@ tags: []
 ---
 {% include JB/setup %}
 
-SSD: Samsung 830 128GB
-Model Number: MZ-7PC128D
-Firmware: CXM03B1Q
-Capacity: 128GB
-Filesystem: ext4,noatime,nodiratime,barrier=0,nobh,commit=100,nouser_xattr,data=ordered,discard
-Notes: SATA III  
+> SSD: Samsung 830 128GB
+> Model Number: MZ-7PC128D
+> Firmware: CXM03B1Q
+> Capacity: 128GB
+> Filesystem: ext4,noatime,nodiratime,barrier=0,nobh,commit=100,nouser_xattr,data=ordered,discard
+> Notes: SATA III  
 
 {% highlight bash %}
 $ hdparm -Tt /dev/sda
