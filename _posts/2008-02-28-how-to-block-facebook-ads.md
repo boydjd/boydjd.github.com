@@ -13,6 +13,6 @@ Frustrating.
 Add the following filters to Adblock Plus to make them go away:
 
 facebook.com#*(social_ad)  
- facebook.com#*(social_ad_advert)
+facebook.com#*(social_ad_advert)
 
 Now I can continue using Facebook without having to deal with their stupid ads.
