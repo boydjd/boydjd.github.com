@@ -149,19 +149,19 @@ Responsible for building and maintaining software images for Macintosh and Windo
 
 ##Education
 
-**B.Sc., Computer Science**, Radford University, *2003 - 2008*
+**B.Sc., [Computer Science](https://www.radford.edu/content/csat/home/itec/programs/computer-science/software-engineering.html)**, [Radford University](https://www.radford.edu), *2003 - 2008*
 
 
 
 
 ---
 
-**M.Sc., Applied Computer Science**, Columbus State University, *2013 - 2015*
+**M.Sc., [Applied Computer Science](https://academics.columbusstate.edu/catalogs/current/reqs/cobcs_msapcompsci.php)**, [Columbus State University](https://www.columbusstate.edu), *2013 - 2015*
 
 
 
 
 ---
 
-**Graduate Certificate**, Columbus State University, *2013 - 2015*
+**Graduate Certificate, [Information Systems Security Professional](https://cs.columbusstate.edu/curriculum/grad_certs_info_sys_security.php)**, [Columbus State University](https://www.columbusstate.edu), *2013 - 2015*
 
