@@ -9,6 +9,7 @@ description: ""
 - <boydjd@jbip.net>
 - <http://www.experimentalenhancements.com>
 - <https://github.com/boydjd>
+- <https://www.linkedin.com/in/joshuaboyd>
 
 
 
