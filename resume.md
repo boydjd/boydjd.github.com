@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Résumé of Josh Boyd"
+title: "Résumé of Joshua D. Boyd"
 description: ""
 ---
 {% include JB/setup %}
