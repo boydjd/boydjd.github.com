@@ -8,7 +8,7 @@ description: ""
 - Ashburn, VA, United States
 - <boydjd@jbip.net>
 - <http://www.experimentalenhancements.com>
-- <http://www.github.com/boydjd>
+- <https://github.com/boydjd>
 
 
 
