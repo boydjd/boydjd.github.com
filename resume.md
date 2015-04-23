@@ -1,11 +1,10 @@
 ---
 layout: page
-title: "Resume"
+title: "Résumé of Josh Boyd"
 description: ""
 ---
 {% include JB/setup %}
 
-#Josh Boyd
 - Ashburn, VA, United States
 - boydjd@jbip.net
 - http://www.experimentalenhancements.com
@@ -14,9 +13,10 @@ description: ""
 
 
 ---
+
 ##Experience
 
-**Principal Software Engineer**, VIP Communications, *April 2013 - Current*
+**Principal Software Engineer**, VIP Communications, *October 2011 - Current*
 
 
 Designed and led implementation of a Drupal based MVP platform, reducing time to market of individual products from one month to less than one week.
@@ -30,13 +30,6 @@ Led engineering effort to bring applications and infrastructure into PCI-DSS com
 Implemented and maintained multiple API integrations: Twilio, Voxbone, CyberSource, ding*, Google Geocoding, Digitalk
 
 Performed technical interviews of a dozen candidates; both offshore and stateside.
-
----
-
-**Senior Software Engineer**, VIP Communications, *October 2011 - April 2013*
-
-
-
 
 ---
 
