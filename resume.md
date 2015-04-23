@@ -6,8 +6,9 @@ description: ""
 {% include JB/setup %}
 
 - Ashburn, VA, United States
-- boydjd@jbip.net
-- http://www.experimentalenhancements.com
+- <boydjd@jbip.net>
+- <http://www.experimentalenhancements.com>
+- <http://www.github.com/boydjd>
 
 
 
